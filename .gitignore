@@ -1,0 +1,17 @@
+**/bin/
+**/obj/
+**/.vs/
+**/TestResults/
+**/.idea/
+**/*.feature.cs
+**/*.sln
+
+# Media files
+**/*.docx
+**/*.pptx
+**/*.mp3
+**/*.mp4
+**/*.png
+**/*.svg
+**/*.txt
+**/*.jpg
